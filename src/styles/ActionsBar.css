@@ -1,0 +1,5 @@
+.Actions-Bar {
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 10px;
+}

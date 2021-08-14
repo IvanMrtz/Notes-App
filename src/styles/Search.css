@@ -1,0 +1,22 @@
+.Search {
+    display: flex;
+    align-items: center;
+    background-color: rgb(49, 53, 56);
+    height: 50px;
+    margin: 7px;
+    border-radius: 5px;
+}
+
+.Search > * {
+    margin-left: 40px;
+}
+
+.Search input {
+    width: 100%;
+    outline: none;
+    height: 100%;
+    font-size: 100%;
+    border: none;
+    color: white;
+    background: none;
+}

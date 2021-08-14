@@ -1,0 +1,11 @@
+.Container-Add-Note {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 200px;
+    height: 40px;
+}
+
+.Container-Add-Note p {
+    width: 100%;
+}

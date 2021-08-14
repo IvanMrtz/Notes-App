@@ -1,0 +1,16 @@
+.Note {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Note-Likes {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Note-Likes svg {
+    transition: all .5s;
+}

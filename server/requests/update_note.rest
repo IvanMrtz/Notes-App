@@ -1,0 +1,8 @@
+PUT http://localhost:3000/api/notes/61142cbc01f78f1bd016cdc0
+Content-Type: application/json
+
+{
+    "title": "awesome!",
+    "description": "awesome description",
+    "likes": 150
+}
